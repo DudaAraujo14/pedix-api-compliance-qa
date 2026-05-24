@@ -365,19 +365,19 @@ javaBaseUrl
 
 ### Collection organizada no Postman
 
-![Collection organizada](prints/collections-organizadas.png)
+![Collection organizada](prints/collections-organizadas.png.png)
 
 ### Health Check da API C#
 
-![Health C#](prints/health-dotnet-api.png)
+![Health C#](prints/health-dotnet-api.png.png)
 
 ### Health Check da API Java
 
-![Health Java](prints/health-java-api.png)
+![Health Java](prints/health-java-api.png.png)
 
 ### Execução pelo Postman Runner
 
-![Runner Postman](prints/runner-execucao-testes.png)
+![Runner Postman](prints/runner-execucao-testes.png.png)
 
 ---
 
